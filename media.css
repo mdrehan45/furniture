@@ -84,11 +84,12 @@ left: 30px;
     }
     .box3{
         position: relative;
-        left: 80px;
+        left: 50px;
     }
     .nav{
         display: flex;
        position: relative;
        left: 200px;
 }
+    
 }
