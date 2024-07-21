@@ -84,7 +84,7 @@ left: 30px;
     }
     .box3{
         position: relative;
-        left: 50px;
+        left: 55px;
     }
     .nav{
         display: flex;
@@ -93,5 +93,5 @@ left: 30px;
 }
     .img1{
         poistion:relative;
-        right:10px
+        right:30px
 }
